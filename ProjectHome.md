@@ -1,0 +1,1 @@
+Sample code from the article series "The Busy Java Developer's Guide to Scala" on developerWorks, released for any and all use and hack on.
